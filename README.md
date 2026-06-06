@@ -234,18 +234,6 @@ Le fichier suivant doit être placé dans le même dossier que le notebook :
 bank-full.csv
 ```
 
-## Améliorations possibles
-
-Plusieurs améliorations peuvent être ajoutées au projet :
-
-- tester d'autres modèles comme Random Forest, XGBoost ou LightGBM ;
-- appliquer une validation croisée complète ;
-- optimiser les hyperparamètres avec GridSearchCV ou RandomizedSearchCV ;
-- analyser plus finement le déséquilibre des classes ;
-- ajouter une matrice de confusion normalisée ;
-- créer une application Streamlit pour tester une prédiction client ;
-- sauvegarder le meilleur modèle avec `joblib`.
-
 ## Technologies utilisées
 
 - Python
