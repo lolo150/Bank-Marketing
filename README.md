@@ -210,8 +210,8 @@ La variable `duration` apparaît comme particulièrement importante dans les deu
 ### 1. Cloner le dépôt
 
 ```bash
-git clone <url-du-repository>
-cd <nom-du-repository>
+git clone https://github.com/lolo150/Bank-Marketing
+cd Bank-Marketing
 ```
 
 ### 2. Installer les dépendances
