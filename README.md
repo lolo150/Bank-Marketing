@@ -223,7 +223,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ### 3. Lancer le notebook
 
 ```bash
-jupyter notebook "app_explique (1).ipynb"
+jupyter notebook "app.ipynb"
 ```
 
 ### 4. Vérifier la présence du dataset
